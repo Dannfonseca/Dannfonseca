@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Daniel e sou apaixonado por tecnologia, bem vindo ao meu github</h2>
+<h2 align="center">Olá 👋! Meu nome é Daniel, desenvolvedor fullstack, bem vindo ao meu github</h2>
 
 ###
 
